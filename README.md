@@ -1,2 +1,3 @@
 # a-new-repo
-just another repository
+
+Hello all! Just another repository.
